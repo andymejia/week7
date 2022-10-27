@@ -7,6 +7,7 @@ import projects.exception.DbException;
 
 public class DbConnection {
 
+  //Created constants that match MySql Workbench
   private static String HOST = "localhost";
   private static String PASSWORD = "projects";
   private static int PORT = 3306;

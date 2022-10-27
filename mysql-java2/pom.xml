@@ -3,9 +3,12 @@
 	<groupId>com.promineotech</groupId>
 	<artifactId>mysql-java2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	
+    
 	<properties>
 		<java.version>11</java.version>
 	</properties>
+
 	<dependencies>
 		<dependency>
 			<groupId>mysql</groupId>
@@ -13,7 +16,7 @@
 			<version>8.0.31</version>
 		</dependency>
 	</dependencies>
-	
+ 
 	 <build>
     <pluginManagement>
       <plugins>
